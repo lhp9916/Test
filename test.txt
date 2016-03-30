@@ -1,1 +1,2 @@
 test smartgit
+smartgit 还挺好用
