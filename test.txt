@@ -1,3 +1,4 @@
 ﻿test smartgit
 smartgit 还挺好用
 test sourcetree
+测试冲突2
