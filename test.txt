@@ -1,7 +1,6 @@
 ﻿test smartgit
 smartgit 还挺好用
 test sourcetree
-测试冲突
+测试冲突1
 测试冲突2
-测试冲突333
-测试冲突333
+测试冲突3
