@@ -1,6 +1,4 @@
-﻿test smartgit
-smartgit 还挺好用
-test sourcetree
+test github desktop
 测试冲突1
 测试冲突2
 测试冲突3
